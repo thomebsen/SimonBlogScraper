@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script is designed to extract blog post titles and content from specified categories on Simons Japan's website: https://simonsjapan.dk/  
+This Python script is designed to extract blog post titles and content from specified categories on Simon Japan's website, https://simonsjapan.dk/  
 
 The generated output is a `.json` file for easy data analysis or further processing.
 
